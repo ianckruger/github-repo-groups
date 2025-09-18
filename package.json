@@ -1,0 +1,23 @@
+{
+  "name": "github-repo-groups",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianckruger/github-repo-groups.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianckruger/github-repo-groups/issues"
+  },
+  "homepage": "https://github.com/ianckruger/github-repo-groups#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
